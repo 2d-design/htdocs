@@ -1,0 +1,9 @@
+html, input, textarea { color: #D8D8D0; background-color: #282830; text-align: center; line-height: 150%; }
+h1, a { color: #FFA000; }
+.large { font-size: large; }
+.x-large { font-size: x-large; }
+.xx-large { font-size: xx-large; }
+hr { width: 100%; max-width: 180px; margin: 15px auto 30px auto; opacity: 0.4; }
+fieldset { margin: auto; max-width: 360px; }
+input, textarea { border: 2px solid #ffa000; border-radius: 5px; width: 100%; }
+#nick { display: none; }
